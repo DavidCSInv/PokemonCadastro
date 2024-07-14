@@ -1,0 +1,6 @@
+@PokemonCadastro_HostAddress = http://localhost:5130
+
+GET {{PokemonCadastro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
